@@ -120,3 +120,10 @@ En este ejemplo:
 ## Laboratorio
 
 [LABORATORIO](https://colab.research.google.com/github/libialany/qhawanacode/blob/main/docs/course1/lesson1.ipynb)
+
+
+---
+
+## Ejercicio
+
+[Ejercicio](https://pytamaro.si.usi.ch/curricula/luce-hoc/castle/info)
