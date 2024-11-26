@@ -1,16 +1,10 @@
-# Lección 2: Programacion en Python
-
-## Teoria
-
-Aquí tienes una guía para enseñar listas en Python a niños de 9 a 12 años. Se enfoca en ejemplos prácticos y actividades interactivas para mantener su interés.
-
----
+# Lección 2: Programacion en Python II
 
 ### **1. Lista  
 
 Una lista en Python es como una caja que puede guardar muchas cosas en orden(palabras o numeros). 
 
-
+![image2](../../images/lesson2.jpg)
 
 **Código simple:**  
 ```python
