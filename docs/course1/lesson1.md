@@ -124,6 +124,6 @@ En este ejemplo:
 
 ---
 
-## Ejercicio
+## Pytamaro
 
-[Ejercicio](https://pytamaro.si.usi.ch/curricula/luce-hoc/castle/info)
+[Ejercicio](https://pytamaro.si.usi.ch/activities/luce-hoc/plain-wall/en/v1?curriculum=luce-hoc%2Fcastle)
