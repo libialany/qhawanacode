@@ -7,7 +7,6 @@
 ### **1. Variables (Guardando valores)**
 
 En Python, una **variable** es un espacio en memoria que se utiliza para almacenar un valor.
-Las variables pueden almacenar diferentes tipos de datos, como números, cadenas de texto (strings), listas, entre otros.
 
 #### Ejemplo de uso:
 
@@ -23,16 +22,12 @@ print("Tengo", edad, "años.")
 print("Mido", altura, "metros.")
 ```
 
-### ¿Qué son las variables?
-
-- **Variables** son como "contenedores" donde guardamos valores que podemos usar más adelante en nuestro programa.
-- El valor de una variable puede cambiar durante la ejecución del programa.
 
 ---
 
 ### **2. Importaciones (import)**
 
-En Python, `import` nos permite usar módulos o bibliotecas externas que contienen funciones, clases y herramientas útiles para facilitar la programación. Al importar un módulo, podemos acceder a sus funcionalidades sin tener que escribir todo el código desde cero.
+En Python, `import` nos permite usar módulos o bibliotecas externas que contienen funciones, clases y herramientas útiles.
 
 #### Ejemplo de uso:
 
@@ -46,16 +41,15 @@ raiz = math.sqrt(numero)
 print("La raíz cuadrada de", numero, "es", raiz)
 ```
 
-### ¿Qué hace `import`?
+### ¿Qué hace `import math`?
 
 - `import math` trae todo el contenido del módulo `math` para que podamos usarlo.
-- Esto es útil para no tener que escribir funciones matemáticas complicadas nosotros mismos.
 
 ---
 
 ### **3. Funciones (Con parámetros)**
 
-Una **función** es un bloque de código que realiza una tarea específica. Las funciones pueden recibir **parámetros**, que son valores que les pasamos cuando las llamamos, y también pueden devolver un valor como resultado.
+Una **función** es un bloque de código que realiza una tarea específica. Las funciones pueden recibir **parámetros**.
 
 #### Ejemplo de uso:
 
@@ -77,7 +71,6 @@ print("La suma de", numero1, "y", numero2, "es", suma)
 ### ¿Qué son las funciones con parámetros?
 
 - **Funciones**: Son bloques de código reutilizables. Pueden recibir **parámetros** (como `a` y `b` en el ejemplo) que les dan información adicional para trabajar.
-- **`return`**: La palabra clave `return` indica qué valor va a devolver la función. En este caso, devuelve la suma de `a` y `b`.
 
 ---
 
