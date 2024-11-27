@@ -27,5 +27,22 @@ print("La suma de", numero1, "y", numero2, "es", suma)
 
 
 ## Laboratorio
-[.](https://projects.raspberrypi.org/en/projects/target-practice/3)
 [LABORATORIO](https://colab.research.google.com/github/libialany/qhawanacode/blob/main/docs/course1/lesson3.ipynb)
+
+## ACTIVIDAD
+[ruleta](https://editor.raspberrypi.org/en/projects/target-practice-starter)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[.](https://projects.raspberrypi.org/en/projects/target-practice/3)
