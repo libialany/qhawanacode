@@ -1,45 +1,31 @@
-# Lección 2: Bases de la programación
+# Lección 3: Bases de la programación
 
-## Teoria
+### **3. Funciones**
 
-### **Clase de Python para Principiantes**
+Una **función** es un bloque de código que realiza una tarea específica. Las funciones pueden recibir **parámetros**.
 
-### **1. Bucles**
+#### Ejemplo de uso:
 
-1. **¿Qué es un loop (bucle)?**
-  Usamos loops cuando necesitamos repetir algo muchas veces sin tener que escribirlo todo de nuevo.
+```python
+# Definimos una función que toma dos números y devuelve su suma
+def sumar(a, b):
+    resultado = a + b
+    return resultado
 
-### Ejemplo 1: Imprimir números con un `for` loop
-1. **Objetivo:** Mostrar cómo imprimir números del 1 al 5.
-   
-   **Código:**
-   ```python
-   for i in range(1, 6):
-       print(i)
-   ```
-   **Explicación:**
-   - `for i in range(1, 6)` significa "haz esto para cada número de 1 a 5".
-   - `print(i)` es lo que hará la computadora cada vez que pase por un número.
-   
-   **Actividad:**
-   - Haz que los niños modifiquen el rango. Por ejemplo, pídeles que muestren los números del 3 al 8, o los números negativos, como `range(-3, 3)`.
+# Llamamos a la función con dos números
+numero1 = 5
+numero2 = 3
+suma = sumar(numero1, numero2)  # Pasamos numero1 y numero2 como parámetros
 
----
-### **2. while**
-Bucle `while` repite algo una y otra vez hasta que una condición se vuelva *falsa*.
+# Imprimimos el resultado
+print("La suma de", numero1, "y", numero2, "es", suma)
+```
 
-### Ejemplo 1: Contar hasta 5 con `while`
-1. **Objetivo:** Mostrar cómo usar un bucle `while` para contar números de 1 a 5.
+### ¿Qué son las funciones con parámetros?
 
-   **Código:**
-   ```python
-   contador = 1
-   while contador <= 5:
-       print(contador)
-       contador = contador + 1  # Esto aumenta el contador en 1
-   ```
----
+- **Funciones**: Son bloques de código reutilizables. Pueden recibir **parámetros** (como `a` y `b` en el ejemplo) que les dan información adicional para trabajar.
+
 
 ## Laboratorio
-
-[LABORATORIO](https://pytamaro.si.usi.ch/curricula/luce-hoc/castle?to=unit-1-step-0-activity-0#program-your-own-castle)
+[.](https://projects.raspberrypi.org/en/projects/target-practice/3)
+[LABORATORIO](https://colab.research.google.com/github/libialany/qhawanacode/blob/main/docs/course1/lesson3.ipynb)
