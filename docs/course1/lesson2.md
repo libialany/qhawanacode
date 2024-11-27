@@ -1,6 +1,6 @@
 # Lección 2: Programacion en Python II
 
-### **1. Lista  
+### **1. Lista**
 
 Una lista en Python es como una caja que puede guardar muchas cosas en orden(palabras o numeros). 
 
