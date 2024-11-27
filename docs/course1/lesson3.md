@@ -43,6 +43,4 @@ print("La suma de", numero1, "y", numero2, "es", suma)
 
 
 
-
-
 [.](https://projects.raspberrypi.org/en/projects/target-practice/3)
