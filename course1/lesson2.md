@@ -4,7 +4,7 @@
 
 Una lista en Python es como una caja que puede guardar muchas cosas en orden(palabras o numeros). 
 
-![image2](../../images/lesson2.jpg)
+![image2](../images/lesson2.jpg)
 
 **Código simple:**  
 ```python
