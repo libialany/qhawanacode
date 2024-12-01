@@ -1,5 +1,5 @@
-# QHAWANA CODE
+
+# QHAWANA_CODE
 
 > Cambiando la educación.
 
-![logo](./logo.png)
